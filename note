@@ -1,0 +1,19 @@
+Using git for  NEW project 
+
+
+step one ==> git init
+
+
+step two ==> git add .
+
+git status {to check the condition of your project }
+
+
+step three ==> git commit -m " messages"
+
+step four ==> git branch -M name_of_default_branch
+
+step five ==>  git add remote origin url
+
+step six ==> git push  -u origin name_of_default_branch 
+
